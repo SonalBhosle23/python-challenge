@@ -1,4 +1,4 @@
-# python_challenge 
+# python_challenge - Pybank
 
 import os
 import csv
@@ -35,3 +35,22 @@ https://www.studytonight.com/python-howtos/how-to-add-elements-in-python-list
 https://hackerearth.com/practice/notes/samarthbhargav/a-quick-intro-to-indexing-in-python/
 https://www.w3schools.com/python/python_lists_loop.asp#:~:text=a%20While%20Loop-,You%20can%20loop%20through%20the%20list%20items%20by%20using%20a,by%201%20after%20each%20iteration
 Accessed chatGPT
+
+# python_challenge - PyPoll
+import os
+import csv
+# Open and read csv
+# Calculate the total number of votes cast
+ 
+# complete list of candidates who received votes
+
+# Convert the set to a list if needed
+   
+    
+# Print the list of candidates
+
+
+# Export the results to a text file
+The following resources were utilised to complete the assignment:
+Revisited Pybank workings
+Accessed chatGPT extensively
