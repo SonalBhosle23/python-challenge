@@ -24,6 +24,8 @@ import csv
 
 # Print the analysis results
 
+# Export the results to a text file
+
 The following resources were utilised to complete the assignment:
 Revisited class recordings
 Assistance from BCS assistant Daniel Saw
