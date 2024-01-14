@@ -1,4 +1,8 @@
 # python_challenge - Pybank
+The challenge was to work on set of bank data and create a python script to assist in 
+analysing the financial records, Total number of months
+net total amount of "Profit/Losses" 
+changes, greates increase /decrease in "Profit/Losses"
 
 import os
 import csv
@@ -37,6 +41,11 @@ https://www.w3schools.com/python/python_lists_loop.asp#:~:text=a%20While%20Loop-
 Accessed chatGPT
 
 # python_challenge - PyPoll
+The challenge was to work on set of poll data and create a python script to assist in 
+analysing the votes and calcutions for total number of casted votes, 
+list of candidates who received votes and their percentage an number of votes,
+Winner based on maximum percentage of votes
+
 import os
 import csv
 # Open and read csv
